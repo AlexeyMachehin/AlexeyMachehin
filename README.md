@@ -22,7 +22,7 @@
 
 ***
 
-## <img style="width:25px;height:25px" src="icons/praktikum.png" /> Задания Яндекс-Практикума:>
+## <img style="width:25px;height:25px" src="icons/praktikum.png" /> Задания Яндекс-Практикума:
 * [Игра Bomberman (в разработке)](https://github.com/AlexeyMachehin/client-server-template-with-vite)
 * [Мессенджер](https://github.com/AlexeyMachehin/middle.messenger.praktikum.yandex)
 
