@@ -32,10 +32,10 @@
 
 <h3>💻 Статистика профиля</h3>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymachehin&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeymachehin&count_private=true&theme=dracula)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymachehin&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeymachehin&count_private=true&theme=transparent)
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="AlexeyMachehin's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=AlexeyMachehin&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alexeymachehin&theme=react-dark)](https://github.com/alexeymachehin/github-readme-activity-graph)
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=AlexeyMachehin1&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
