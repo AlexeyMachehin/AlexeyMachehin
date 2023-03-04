@@ -1,6 +1,6 @@
 <a href="https://github.com/AlexeyMachehin"><img src="contributions.svg"></a>
 
-
+![Snake animation](https://github.com/alexeymachehin/alexeymachehin/blob/output/github-contribution-grid-snake.svg)
 
 ## Мои контакты:
 <a href="https://t.me/Alexpvk96/" title="Telegram"><img src="icons/telegram.png" /></a>
