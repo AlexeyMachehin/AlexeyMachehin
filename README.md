@@ -2,6 +2,13 @@
 
 ![Snake animation](https://github.com/alexeymachehin/alexeymachehin/blob/output/github-contribution-grid-snake.svg)
 
+***
+
+## Всем привет, меня зовут Алексей
+## Я фронтенд-разработчик
+
+***
+
 ## Мои контакты:
 <a href="https://t.me/Alexpvk96/" title="Telegram"><img src="icons/telegram.png" /></a>
 <a href='mailto:lehamachehin@yandex.ru' title="Yandex mail"><img src="icons/yandex.png" /></a>
