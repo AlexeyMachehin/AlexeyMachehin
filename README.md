@@ -3,9 +3,9 @@
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk" />
 
 ## Основной стек с которым работал:
-* Javascript
-* Typescript
-* React
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
+<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
 * Redux
 
 ***
