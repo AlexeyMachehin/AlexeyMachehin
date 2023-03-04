@@ -1,9 +1,8 @@
 <a href="https://github.com/AlexeyMachehin"><img src="contributions.svg"></a>
 
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk" />
-
-
 ## Мои контакты:
+<a href="https://t.me/Alexpvk96/" title="Telegram"><img src="icons/telegram.png" /></a>
+<a href='mailto:lehamachehin@yandex.ru' title="Yandex mail"><img src="icons/yandex.png" /></a>
 
 
 ## Технологии:
