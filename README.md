@@ -5,7 +5,7 @@
 <a href='mailto:lehamachehin@yandex.ru' title="Yandex mail"><img src="icons/yandex.png" /></a>
 
 
-## Технологии:
+## <img src="icons/tools.png" /> Технологии:
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
@@ -13,16 +13,16 @@
 
 ***
 
-## Задания Яндекс-Практикума:
+## <img src="icons/praktikum.png" /> Задания Яндекс-Практикума:
 * [Игра Bomberman (в разработке)](https://github.com/AlexeyMachehin/client-server-template-with-vite)
 * [Мессенджер](https://github.com/AlexeyMachehin/middle.messenger.praktikum.yandex)
 
-## Мои pet-projects:
+## <img src="icons/project.png" /> Мои pet-projects:
 * [Словарь](https://github.com/AlexeyMachehin/Dictionary)
 * [Интернет-магазин (в разработке)](https://github.com/AlexeyMachehin/Auto_parts_store)
 
 
-## Тестовые задания:
+## <img src="icons/task.png" /> Тестовые задания:
 * [Вендинговый аппарат](https://github.com/AlexeyMachehin/Vending-machine)
 * [Каталог книг (JS)](https://github.com/AlexeyMachehin/Book_catalog)
 * [Каталог книг (TS, React)](https://github.com/AlexeyMachehin/Book_catalog_react)
