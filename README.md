@@ -5,7 +5,9 @@
 ***
 
 ## Всем привет, меня зовут Алексей
-## Я фронтенд-разработчик
+* Учусь писать чистый, читаемый код
+* Осваиваю React, Redux
+* Хочу научиться строить надежную архитектуру приложений
 
 ***
 
@@ -14,7 +16,7 @@
 <a href='mailto:lehamachehin@yandex.ru' title="Yandex mail"><img src="icons/yandex.png" /></a>
 
 
-## <img src="icons/tools.png" /> Технологии:
+## <img style="width:25px;height:25px" src="icons/tools.png" /> Технологии:
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
