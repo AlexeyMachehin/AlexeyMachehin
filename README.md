@@ -35,6 +35,7 @@
 
 ## <img style="width:25px;height:25px" src="icons/task.png" /> Тестовые задания:
 * [Вендинговый аппарат](https://github.com/AlexeyMachehin/Vending-machine)
+* [insis-landing](https://https://github.com/AlexeyMachehin/insis-landing)
 * [Каталог книг (JS)](https://github.com/AlexeyMachehin/Book_catalog)
 * [Каталог книг (TS, React)](https://github.com/AlexeyMachehin/Book_catalog_react)
 
