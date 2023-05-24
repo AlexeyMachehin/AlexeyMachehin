@@ -4,10 +4,8 @@
 
 ***
 
-## Всем привет, меня зовут Алексей
-* Учусь писать чистый, читаемый код
-* Осваиваю React, Redux
-* Хочу научиться строить надежную архитектуру приложений
+## Привет, меня зовут Алексей
+* Frontend-разработчик
 
 ***
 
@@ -29,15 +27,9 @@
 * [Мессенджер](https://github.com/AlexeyMachehin/middle.messenger.praktikum.yandex)
 
 ## <img style="width:25px;height:25px" src="icons/project.png" /> Мои pet-projects:
-* [Словарь](https://github.com/AlexeyMachehin/Dictionary)
-* [Интернет-магазин (в разработке)](https://github.com/AlexeyMachehin/Auto_parts_store)
-
-
-## <img style="width:25px;height:25px" src="icons/task.png" /> Тестовые задания:
+* [Каталог книг](https://github.com/AlexeyMachehin/Book-catalog-v2)
 * [Вендинговый аппарат](https://github.com/AlexeyMachehin/Vending-machine)
 * [insis-landing](https://github.com/AlexeyMachehin/insis-landing)
-* [Каталог книг (JS)](https://github.com/AlexeyMachehin/Book_catalog)
-* [Каталог книг (TS, React)](https://github.com/AlexeyMachehin/Book_catalog_react)
 
 ***
 
