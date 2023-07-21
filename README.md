@@ -5,7 +5,9 @@
 ***
 
 ## Привет, меня зовут Алексей
-* Frontend-разработчик
+* Учусь писать чистый, читаемый код
+* Осваиваю React, Redux
+* Хочу научиться строить надежную архитектуру приложений
 
 ***
 
@@ -31,8 +33,11 @@
 * [Вендинговый аппарат](https://github.com/AlexeyMachehin/Vending-machine)
 * [team-catalog](https://github.com/AlexeyMachehin/AG-team-catalog)
 * [social-network (в разработке)](https://github.com/AlexeyMachehin/Social-network)
-* [insis-landing](https://github.com/AlexeyMachehin/insis-landing) 
 * [Todo list](https://github.com/AlexeyMachehin/TodoList)
+
+  Верстки:
+* [SpaceX-landing](https://github.com/AlexeyMachehin/SpaceX-landing) 
+* [insis-landing](https://github.com/AlexeyMachehin/insis-landing) 
 
 ***
 
