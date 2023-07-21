@@ -1,8 +1,6 @@
 <!-- <a href="https://github.com/AlexeyMachehin"><img src="contributions.svg"></a> -->
 
-![Snake animation](https://github.com/alexeymachehin/alexeymachehin/blob/output/github-contribution-grid-snake.svg)
-
-***
+<!-- ![Snake animation](https://github.com/alexeymachehin/alexeymachehin/blob/output/github-contribution-grid-snake.svg) -->
 
 ## Привет, меня зовут Алексей
 * Учусь писать чистый, читаемый код
