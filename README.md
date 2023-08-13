@@ -24,14 +24,23 @@
 * [Мессенджер](https://github.com/AlexeyMachehin/middle.messenger.praktikum.yandex)
 
 ## <img style="width:25px;height:25px" src="icons/project.png" /> Мои pet-projects:
+React
 * [Каталог книг](https://github.com/AlexeyMachehin/Book-catalog-v2)
 * [Вендинговый аппарат](https://github.com/AlexeyMachehin/Vending-machine)
 * [team-catalog](https://github.com/AlexeyMachehin/AG-team-catalog)
 * [social-network (в разработке)](https://github.com/AlexeyMachehin/Social-network)
 * [Todo list](https://github.com/AlexeyMachehin/TodoList)
+* [smart dropdown menu](https://github.com/AlexeyMachehin/Pronin-dropdownMenu)
 
   Верстки:
-* [SpaceX-landing](https://github.com/AlexeyMachehin/SpaceX-landing) 
+* [SpaceX-landing](https://github.com/AlexeyMachehin/SpaceX-landing)
+
+Angular
+* [Форма расчёта стоимости суточной аренды автомобиля](https://github.com/AlexeyMachehin/DCL-task)
+
+Nuxt
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Верстки:
 * [insis-landing](https://github.com/AlexeyMachehin/insis-landing) 
 
 ***
